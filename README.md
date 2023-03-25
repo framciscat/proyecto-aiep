@@ -15,7 +15,7 @@ Neboola es una página web que permitirá a los usuarios obtener material inform
 
 
 ### Logo
-![](neboola-logos.png) {width='500px' height='350'}
+![](neboola-logos.png){width='500px' height='350px'}
 
 ### Figma
 [Figma](https://www.figma.com/file/LvQ3hvBZmC6cE0TtWRHgBI/Neboola?node-id=0%3A1&t=8IZBchXBZaSLGhX1-1/ "Figma 'Neboola'")
