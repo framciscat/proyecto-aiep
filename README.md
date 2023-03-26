@@ -20,5 +20,9 @@ Neboola es una página web que permitirá a los usuarios obtener material inform
 ### Figma
 [Figma](https://www.figma.com/file/LvQ3hvBZmC6cE0TtWRHgBI/Neboola?node-id=0%3A1&t=8IZBchXBZaSLGhX1-1/ "Figma 'Neboola'")
 
+### Tipografías
++ Logo: Montserrat Alternates
++ Títulos y párrafos: Maven Pro Regular, Medium y Bold.
 
-
+### Paleta de colores
+![](Neboola.png){}
