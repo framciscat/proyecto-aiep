@@ -35,5 +35,5 @@ Neboola es una página web que permitirá a los usuarios obtener material inform
 
 
 ### Equipo de trabajo:
-+ [Frederick Cid] (https://github.com/Rodkaaaa)
-+ [Ariel Sepúlveda] (https://github.com/a-sepulveda-r)
++ [Frederick Cid](https://github.com/Rodkaaaa)
++ [Ariel Sepúlveda](https://github.com/a-sepulveda-r)
