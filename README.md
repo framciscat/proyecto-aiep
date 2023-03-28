@@ -16,7 +16,7 @@ Neboola es una página web que permitirá a los usuarios obtener material inform
 ## Guía de estilos
 
 ### Logo
-![](neboola-logos.png)
+![](assets/img/neboola-logos.png)
 
 ### Figma
 [Prototipo Página web Neboola](https://www.figma.com/file/LvQ3hvBZmC6cE0TtWRHgBI/Neboola?node-id=0%3A1&t=8IZBchXBZaSLGhX1-1/ "Figma 'Neboola'")
@@ -28,10 +28,10 @@ Neboola es una página web que permitirá a los usuarios obtener material inform
 ### Paleta de colores
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#27035E](color01.png) #27035E |
-| Example Color | ![#4B2CA7](color02.png) #4B2CA7|
-| Example Color | ![#8366D8](color03.png) #8366D8 |
-| Example Color | ![#f5f1fa](color04.png) #f5f1fa |
+| Example Color | ![#27035E](assets/img/color01.png) #27035E |
+| Example Color | ![#4B2CA7](assets/img/color02.png) #4B2CA7|
+| Example Color | ![#8366D8](assets/img/color03.png) #8366D8 |
+| Example Color | ![#f5f1fa](assets/img/color04.png) #f5f1fa |
 
 
 ### Equipo de trabajo:
