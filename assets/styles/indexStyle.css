@@ -102,8 +102,26 @@ justify-content: center;
 
 .content-text{
     text-align: justify;
+    line-height: 28px;
     height: 400px;
-    width: 500px;
+    width: 600px;
     padding: 20px;
     margin: 30px;
+}
+
+.astronauta-content{
+animation-delay: .3s;
+animation: anime 1s infinite ease-in-out alternate;
+
+}
+
+@keyframes anime{
+    100%{
+        transform: translateY(20px);
+        -webkit-transform: translateY(20px);
+        -moz-transform: translateY(20px);
+        -ms-transform: translateY(20px);
+        -o-transform: translateY(20px);
+        
+    }
 }
