@@ -10,11 +10,9 @@ body{
     background: linear-gradient(180deg, rgba(121,94,201,1) 48%, rgba(234,242,245,1) 100%);
 }
 
-
 p{
     font-size: 17px;
 }
-
 
 h1, h2, h3, h4{
     color: #270E5E;
@@ -97,7 +95,11 @@ h1, h2, h3, h4{
 display: flex;
 flex-direction: row;
 justify-content: center;
+}
 
+.planet-content{
+    max-width: 400px;
+    animation: anime 1s infinite ease-in-out alternate;
 }
 
 .content-text{
@@ -108,6 +110,28 @@ justify-content: center;
     padding: 20px;
     margin: 30px;
 }
+
+
+.content2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    }
+    
+    .content-text2>h2{
+        line-height: 35px;
+    }
+    .content-text2{
+        text-align: justify;
+        line-height: 28px;
+        height: 400px;
+        width: 650px;
+        text-align: start;
+        padding: 20px;
+        margin: 30px;
+    }
+    
 
 .astronauta-content{
 animation-delay: .3s;
