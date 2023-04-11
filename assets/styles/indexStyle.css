@@ -100,7 +100,7 @@ font-size: 35px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/assets/img/hero.png);
+    background-image: url("/assets/img/hero.png");
     background-size: cover;
     background-position: center;
 }
@@ -183,7 +183,7 @@ animation: anime 1s infinite ease-in-out alternate;
         display: flex;
         align-items: center;
         justify-content: center;
-        background-image: url(/assets/img/section.png);
+        background-image: url("/assets/img/section.png");
         background-size: cover;
         background-position: center;
     }
