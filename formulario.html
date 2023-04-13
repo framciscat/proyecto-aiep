@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="assets/styles/formStyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&display=swap"
+      rel="stylesheet">
+</head>
+<body>
+
+<!-- Navbar -->
+<header class="header">
+    <div class="logo">
+        <a href="index.html"><img src="assets/img/neboolalogo.png" alt="Logo de la marca" /></a> 
+    </div>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="#">Galería</a></li>
+        <li><a href="#">Videos</a></li>
+        <li><a href="#">APOD</a></li>
+      </ul>
+    </nav>
+    <a class="btn" href="#"><button>Log in</button></a>
+  </header>
+
+<!-- Formulario -->
+  <section class="form-container">
+    <div>
+        <img src="assets/img/astronaut-signup.svg">
+    </div>
+   
+        <form id="formulario" action="formulario.html" method="">
+            <h2>Registro de usuario</h2>
+            <p>Sorpréndete con todo lo que Neboola tiene para ti</p>
+            <br>
+            <div class="form-control">
+                <label for="usuario">Nombre de usuario</label>
+                <input id="usuario" type="text">
+                <p></p>                
+            </div>
+
+            <div class="form-control">
+                <label for="email">E-mail</label>
+                <input id="email" type="email">
+                <p></p>                
+            </div>
+
+            <div class="form-control">
+                <label for="pass">Password</label>
+                <input id="pass" type="password">
+                <p></p>                
+            </div>
+
+            <div class="form-control">
+                <label for="passConfirma">Confirmar Password</label>
+                <input id="passConfirma" type="password">
+                <p></p>                
+            </div>
+
+            <button>Enviar</button>
+        </form>
+</section>
+    <script src="assets/js/app.js" defer></script>
+</body>
+</html>

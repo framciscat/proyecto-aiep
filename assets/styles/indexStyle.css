@@ -5,7 +5,7 @@
 }
 
 body{
-    background: rgb(121,94,201);
+    background: #795ec9;
     background: linear-gradient(180deg, rgba(121,94,201,1) 48%, rgba(234,242,245,1) 100%);
 }
 
@@ -25,6 +25,7 @@ h4{
 h2{
 font-size: 35px;
 }
+
 /* NAVBAR */
 
 .header{
